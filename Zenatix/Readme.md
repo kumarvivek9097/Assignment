@@ -1,5 +1,14 @@
 # Zenatix Data Analyst Hiring Challenge
 
+## Problem Statement
+
+To analyze the data and draw inferences. Major focus of the analysis is
+
+- Filling the missing values
+- Find the operational temperature range of each freezer.
+- Find the daily average of door open duration per freezer.
+- Classify the freezers based on their operational health. 
+
 ## Directory Structure
 
 This directory contains following files.
