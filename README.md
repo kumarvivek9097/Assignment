@@ -1,3 +1,3 @@
 # Assignment
 
-This repository contains the solution of various internship assignment. 
+This repository contains the solution of various internship & job assignment. 
